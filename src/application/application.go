@@ -2,10 +2,10 @@ package app
 
 import (
 	"github.com/gin-gonic/gin"
-	http "github.com/kadekchrisna/openbook-oauth/src/http"
-	"github.com/kadekchrisna/openbook-oauth/src/repository/db"
-	"github.com/kadekchrisna/openbook-oauth/src/repository/rest"
-	tokens "github.com/kadekchrisna/openbook-oauth/src/services/access_token"
+	http "github.com/kadekchrisna/openbook-oauth-api/src/http"
+	"github.com/kadekchrisna/openbook-oauth-api/src/repository/db"
+	"github.com/kadekchrisna/openbook-oauth-api/src/repository/rest"
+	tokens "github.com/kadekchrisna/openbook-oauth-api/src/services/access_token"
 )
 
 var (

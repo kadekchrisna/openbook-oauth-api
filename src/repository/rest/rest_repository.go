@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kadekchrisna/openbook-oauth/src/domain/users"
-	"github.com/kadekchrisna/openbook-oauth/src/utils/errors"
+	"github.com/kadekchrisna/openbook-oauth-api/src/domain/users"
+	"github.com/kadekchrisna/openbook-oauth-api/src/utils/errors"
 	"github.com/mercadolibre/golang-restclient/rest"
 )
 

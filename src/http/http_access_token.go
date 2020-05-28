@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	tokens "github.com/kadekchrisna/openbook-oauth/src/domain/access_token"
-	services "github.com/kadekchrisna/openbook-oauth/src/services/access_token"
-	"github.com/kadekchrisna/openbook-oauth/src/utils/errors"
+	tokens "github.com/kadekchrisna/openbook-oauth-api/src/domain/access_token"
+	services "github.com/kadekchrisna/openbook-oauth-api/src/services/access_token"
+	"github.com/kadekchrisna/openbook-oauth-api/src/utils/errors"
 )
 
 type (

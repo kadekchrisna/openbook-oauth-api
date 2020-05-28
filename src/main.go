@@ -1,6 +1,6 @@
 package main
 
-import app "github.com/kadekchrisna/openbook-oauth/src/application"
+import app "github.com/kadekchrisna/openbook-oauth-api/src/application"
 
 func main() {
 	app.StartApplication()

@@ -3,9 +3,9 @@ package db
 import (
 	"fmt"
 
-	"github.com/kadekchrisna/openbook-oauth/src/client/cassandra"
-	tokens "github.com/kadekchrisna/openbook-oauth/src/domain/access_token"
-	"github.com/kadekchrisna/openbook-oauth/src/utils/errors"
+	"github.com/kadekchrisna/openbook-oauth-api/src/client/cassandra"
+	tokens "github.com/kadekchrisna/openbook-oauth-api/src/domain/access_token"
+	"github.com/kadekchrisna/openbook-oauth-api/src/utils/errors"
 )
 
 const (

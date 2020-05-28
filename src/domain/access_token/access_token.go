@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	cryptoutils "github.com/kadekchrisna/openbook-oauth/src/utils/crypto"
-	"github.com/kadekchrisna/openbook-oauth/src/utils/errors"
+	cryptoutils "github.com/kadekchrisna/openbook-oauth-api/src/utils/crypto"
+	"github.com/kadekchrisna/openbook-oauth-api/src/utils/errors"
 )
 
 const (

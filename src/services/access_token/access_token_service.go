@@ -1,10 +1,10 @@
 package tokens
 
 import (
-	tokens "github.com/kadekchrisna/openbook-oauth/src/domain/access_token"
-	"github.com/kadekchrisna/openbook-oauth/src/repository/db"
-	"github.com/kadekchrisna/openbook-oauth/src/repository/rest"
-	"github.com/kadekchrisna/openbook-oauth/src/utils/errors"
+	tokens "github.com/kadekchrisna/openbook-oauth-api/src/domain/access_token"
+	"github.com/kadekchrisna/openbook-oauth-api/src/repository/db"
+	"github.com/kadekchrisna/openbook-oauth-api/src/repository/rest"
+	"github.com/kadekchrisna/openbook-oauth-api/src/utils/errors"
 )
 
 type (
